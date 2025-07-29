@@ -1,2 +1,2 @@
 print("hi")
-prit("Succes launching script")
+print("Succes launching script")
